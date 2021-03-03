@@ -24,9 +24,11 @@ The ports here are might probably different but,
 I personally use 8080 as the Hardware Port.
 
 ## Closing the Program
-If you would like to end the process of the program, you might notice that the BlynkServer app is currently on Not Responding state. Just ignore it,  the main server application is in the ServerLauncher process.
+If you would like to end the process of the program, you might notice that the BlynkServer app is  
+currently on Not Responding state. Just ignore it, the main server application is in the ServerLauncher process.
 
 Go into the Apple's icon, choose Force Quit. Scroll down until  
-you saw the ServerLauncher program and hit Force Quit. An error might shows up, but it doesn't matter. Just click on OK, and the server should've closed.
+you saw the ServerLauncher program and hit Force Quit. An error might shows up,  
+but it doesn't matter. Just click on OK, and the server should've closed.
 
 ![Force Quit](https://i.ibb.co/ZYfxhy6/Screen-Shot-2021-03-04-at-05-00-07.png)
