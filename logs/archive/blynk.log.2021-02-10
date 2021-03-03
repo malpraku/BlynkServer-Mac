@@ -1,0 +1,11 @@
+14:08:41.049 INFO - Using data dir './Blynk'
+14:08:41.127 INFO - Region : local. Host : 192.168.43.243.
+14:08:42.323 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+14:08:43.248 INFO - Reports : 0
+14:08:43.249 INFO - Didn't find custom user certificates.
+14:08:43.260 INFO - Didn't find Let's Encrypt certificates.
+14:08:43.260 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+14:08:43.260 WARN - ATTENTION. Server certificate paths (cert : '/Users/Rinn/Downloads/Blynk', key : '/Users/Rinn/Downloads/Blynk') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+14:08:51.207 INFO - HTTP API and WebSockets server listening at 8080 port.
+14:08:51.209 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+14:08:51.212 INFO - Mqtt hardware server listening at 8440 port.
