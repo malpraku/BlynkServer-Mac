@@ -6,7 +6,8 @@ Some bugs may occur, please submit an issues report.
 ## Installation
 
 This program requires [Java](https://java.com/en/download/) to operate the server.  
-The rest of the installation is simply drag and drop to the Applications folder, and if there's a security warning. Try to bypass them.
+The rest of the installation is simply drag and drop to the Applications folder, and  
+If there's a security warning from Apple, try to bypass them.
 
 ## Usage
 
